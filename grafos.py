@@ -24,4 +24,3 @@ grafo1.p = None
 grafo2.p = grafo1.id
 grafo1.s = grafo2.id
 grafo2.s = None
-
